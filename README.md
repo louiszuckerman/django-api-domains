@@ -30,3 +30,10 @@ In order to overcome these problems, this styleguide tries to achieve the follow
 # Read the styleguide
 
 The styleguide is now published as a readable documentation site. You can view it at [https://phalt.github.io/django-api-domains/](https://phalt.github.io/django-api-domains/) or view the [docs](docs/) folder directly.
+
+# TODO:
+
+* Renaming
+   * API => Provider
+   * Interface => Consumer
+* Replace files (service.py) with packages (service/audience_api_service.py)
