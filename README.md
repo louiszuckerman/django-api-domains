@@ -33,7 +33,11 @@ The styleguide is now published as a readable documentation site. You can view i
 
 # TODO:
 
+* Bend the rules for sharing models across apps -- [see Tom's feedback in slack](https://simondata.slack.com/archives/GKX8YRJUU/p1597678027484400)
+* Replace files (service.py) with packages (service/audience_api_service.py)
+
+## Other ideas:
+
 * Renaming
    * API => Provider
    * Interface => Consumer
-* Replace files (service.py) with packages (service/audience_api_service.py)
